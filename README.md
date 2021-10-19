@@ -3,7 +3,8 @@
 - 👀 I’m interested in Programming and Web Frontend Development
 - 🌱 I’m currently learning React.js and Nextjs
 - ✨ I’m looking to collaborate on big social impact project
-How to reach me ramadhanabagus99@gmail.com or +62-822-2780-4252
+- How to reach me ramadhanabagus99@gmail.com or +62-822-2780-4252
+
 
 <!---
 ramadhanabs/ramadhanabs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
