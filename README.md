@@ -1,3 +1,4 @@
+-#MyPurpose is help others with code
 - 👋 Hi, I’m @ramadhanabs
 - 👀 I’m interested in Programming and Web Frontend Development
 - 🌱 I’m currently learning React.js and Nextjs
