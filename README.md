@@ -1,9 +1,4 @@
 - 👋 Hi, I’m @ramadhanabs
-- 💞️ #MyPurpose is help others with code
-- 👀 I’m interested in Programming and Web Frontend Development
-- 🌱 I’m currently learning React.js and Nextjs
-- ✨ I’m looking to collaborate on big social impact project
-- How to reach me ramadhanabagus99@gmail.com
 
 
 <!---
