@@ -1,4 +1,5 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramadhanabs&label=Profile%20views&color=0e75b6&style=flat" alt="ramadhanabs" /> </p>
+<h1 align="center">Hi 👋, I'm Ramadhana Bagus Solichuddin</h1>
+<h3 align="center">Frontend Developer from Indonesia</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
