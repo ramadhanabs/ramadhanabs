@@ -1,6 +1,8 @@
-<p align="left">Linkedin: 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ramadhanabagus/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ramadhanabagus/" height="15" width="20" /></a>
+<p align="left">Find me on: 
 </p>
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramadhanabagus/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=6282227804252)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramadhanabs&show_icons=true&theme=tokyonight&locale=en" alt="ramadhanabs" /></p>
 
